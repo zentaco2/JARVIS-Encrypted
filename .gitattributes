@@ -1,0 +1,7 @@
+* filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.gitignore !filter !diff
+README.md !filter !diff
+CLAUDE.md !filter !diff
+05-CLAUDE/ !filter !diff
+.obsidian/ !filter !diff
